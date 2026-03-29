@@ -1,4 +1,4 @@
-# PART 3: Google Flow 심화 학습
+# PART 03. Google Flow 심화 학습
 
 > **기본을 넘어, Flow의 진짜 힘을 배웁니다**
 
