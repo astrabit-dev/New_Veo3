@@ -120,7 +120,7 @@
 
 * [PART 17. Veo 3의 미래와 전망](pages/100-part17-intro.md)
   * [85. 2026년 이후 AI 영상 기술의 방향](pages/101-future.md)
-  * [86. 경쟁 도구 비교 — Sora·Runway·Kling](pages/102-competitors.md)
+  * [86. 경쟁 도구 비교 — Sora·Runway·Kling·Luma·Wan·HailuoAI](pages/102-competitors.md)
   * [87. AI 영상 크리에이터로 살아남는 법](pages/103-survival.md)
 
 * [PART 18. 실전 프롬프트 대백과](pages/104-part18-intro.md)
