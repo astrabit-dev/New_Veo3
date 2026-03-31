@@ -136,4 +136,6 @@
 * [부록 A. 프롬프트 원소 치트 시트](pages/113-cheatsheet.md)
 * [부록 B. 카메라 용어 사전](pages/114-glossary.md)
 * [부록 C. 유용한 링크 & 커뮤니티](pages/115-resources.md)
+* [부록 D. Veo 3 최신 업데이트 추적 방법](pages/116b-update-tracking.md)
+* [부록 E. 외부 편집 툴 연동 워크플로우 — Veo 3 → CapCut](pages/116c-editing-workflow.md)
 * [마치며](pages/116-closing.md)
