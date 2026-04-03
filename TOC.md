@@ -7,6 +7,7 @@
   * [02. AI 영상 혁명의 시작](pages/003-ai-revolution.md)
   * [03. Google Veo 3란 무엇인가?](pages/004-what-is-veo3.md)
   * [04. Veo 3 vs Veo 2 완전 비교](pages/005-veo3-vs-veo2.md)
+  * [04b. Veo 3.1 & Veo 3.1 Lite 완전 가이드](pages/005b-veo31-overview.md)
   * [05. Veo 3로 만들 수 있는 것들](pages/006-what-can-you-make.md)
   * [06. 알아두어야 할 한계와 주의사항](pages/007-limitations.md)
 
