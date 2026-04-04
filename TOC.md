@@ -17,6 +17,7 @@
   * [09. Flow 인터페이스 완전 해설](pages/011-interface.md)
   * [10. 크레딧 시스템 이해하기](pages/012-credits.md)
   * [11. 첫 번째 영상 만들기 — 단계별 실습](pages/013-first-video.md)
+  * [11b. 모바일 워크플로우 — Google Flow + CapCut](pages/013b-mobile-workflow.md)
 
 * [PART 03. Google Flow 마스터하기](pages/014-part3-intro.md)
   * [12. Flow가 Gemini보다 강력한 이유](pages/015-why-flow.md)
@@ -31,6 +32,7 @@
   * [19. 오디오 생성 — 대화·환경음·음악](pages/023-audio.md)
   * [20. 영화 같은 카메라 워크의 원리](pages/024-camera-work.md)
   * [21. SynthID 워터마크와 저작권](pages/025-synthid.md)
+  * [21b. 클립 연장(Extend) & 연결 심화 기법](pages/025b-extend-clip.md)
 
 * [PART 05. 장르·스타일·시각 제어](pages/026-part5-intro.md)
   * [22. 사용 가능한 비주얼 스타일 목록](pages/027-visual-styles.md)
@@ -45,6 +47,7 @@
   * [29. 프롬프트 황금 원칙 7가지](pages/035-golden-rules.md)
   * [30. 이미지 프롬프트와 영상 프롬프트의 차이](pages/036-image-vs-video.md)
   * [31. 한국어 프롬프트 vs 영어 프롬프트](pages/036b-korean-vs-english.md)
+  * [31b. 네거티브 프롬프팅 기법](pages/036c-negative-prompting.md)
 
 * [PART 07. 텍스트→영상 프롬프트 공식](pages/037-part7-intro.md)
   * [32. 전체 공식 — 8개 요소 개요](pages/038-formula-overview.md)
@@ -81,6 +84,9 @@
   * [57. 다큐멘터리 스타일 템플릿](pages/066-documentary.md)
   * [58. 로맨스·드라마 장면 템플릿](pages/067-romance-drama.md)
   * [59. 공포·스릴러 장면 템플릿](pages/068-horror.md)
+  * [59b. 뮤직비디오 제작 템플릿](pages/068b-music-video.md)
+  * [59c. 여행 브이로그 템플릿](pages/068c-travel-vlog.md)
+  * [59d. 교육·강의 영상 제작 템플릿](pages/068d-educational-video.md)
 
 * [PART 11. JSON 프롬프트 고급 기법](pages/069-part11-intro.md)
   * [60. JSON 프롬프트란 무엇인가](pages/070-json-intro.md)
@@ -101,11 +107,13 @@
   * [71. 캐릭터 일관성 고급 전략](pages/083-character-advanced.md)
   * [72. 장면 전환 기법](pages/084-scene-transition.md)
   * [73. 8초 클립으로 1분 영상 만들기](pages/085-8sec-to-1min.md)
+  * [73b. AI 도구 스택 조합 가이드](pages/085b-ai-tool-stack.md)
 
 * [PART 14. 크레딧 효율 극대화](pages/086-part14-intro.md)
   * [74. Fast Mode vs High Quality 선택 기준](pages/087-fast-vs-quality.md)
   * [75. 프롬프트 초안 테스트 전략](pages/088-test-strategy.md)
   * [76. 크레딧 절약 10가지 팁](pages/089-credit-tips.md)
+  * [76b. 프롬프트 트러블슈팅 가이드](pages/089b-troubleshooting.md)
 
 * [PART 15. AI 영상으로 수익 창출](pages/090-part15-intro.md)
   * [77. AI 유튜브 채널 시작하는 법](pages/091-youtube-channel.md)
@@ -139,4 +147,6 @@
 * [부록 C. 유용한 링크 & 커뮤니티](pages/115-resources.md)
 * [부록 D. Veo 3 최신 업데이트 추적 방법](pages/116b-update-tracking.md)
 * [부록 E. 외부 편집 툴 연동 워크플로우 — Veo 3 → CapCut](pages/116c-editing-workflow.md)
+* [부록 F. 한국어 전용 고급 프롬프트 패턴](pages/appendix-f-korean-patterns.md)
+* [부록 G. 빠른 참조 치트 시트 (인쇄용)](pages/appendix-g-quickref.md)
 * [마치며](pages/116-closing.md)
